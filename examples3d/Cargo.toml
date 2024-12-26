@@ -12,10 +12,10 @@ parallel = [ "rapier_testbed3d/parallel", "salva3d/parallel"]
 num-traits = "0.2"
 Inflector  = "0.11"
 nalgebra   = "0.33"
-rapier3d = "0.21"
-rapier_testbed3d = "0.21"
-parry3d = "0.16"
-bevy = "0.13.2"
+rapier3d = "0.22"
+rapier_testbed3d = "0.22"
+parry3d = "0.17"
+bevy = "0.13"
 
 [dependencies.salva3d]
 path = "../build/salva3d"
